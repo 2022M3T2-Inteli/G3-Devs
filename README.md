@@ -20,30 +20,28 @@
 
 ## 📝 Descrição
 
-Atualmente as empresas vêm sendo afetadas pela intensa rotatividade dos seus colaboradores. Esse problema atinge a companhia de diversas maneiras, como: 1) Os gastos contínuos com contratação; e 2) Treinamento e desenvolvimento de novos funcionários. Além disso, essa situação interfere em toda dinâmica do negócio, desde a produção, criação, desenvolvimento até a entrega final para os consumidores. A solução desenvolvida para a Everymind se baseia em uma ferramenta, que utiliza o aprendizado de máquina para realizar a previsão da taxa de rotatividade dos funcionários. Esse modelo de predição irá fornecer a área de RH da Everymind quais colaboradores são mais propenso a saírem da empresa, contribuindo para que eles encontrem maneiras de reduzir a taxa de turnover e que melhorem a experiência dos seus colaboradores, através de um “Lock in”,  sendo esse uma forma de beneficiar os funcionários que apresentam características que condizem com a cultura da empresa, fornecendo incentivos de permanência na instituição.
+A Everymind é uma empresa de médio porte, com cerca de 250 funcionários, com sede em São Paulo - SP, fundada em 2014, que faz parte do grupo Compass.uol. Também possui parceria com a plataforma Salesforce, atuando no setor de tecnologia e computação, prestando consultoria e desenvolvendo projetos de sistemas em ERP e CRM, utilizando produtos baseados em Salesforce, na gestão e implementação dos mesmos para indústrias de bens de consumo, varejo, saúde, empresas do mercado financeiro, serviços, energia, entre outras. 
+O intuito deste projeto é verificar se a modelagem preditiva, utilizando aprendizado de máquinas, pode ser útil para identificar a tendência de turnover de colaboradores da empresa parceira, com base na amostra de dados cedidos pela mesma, desta forma, para aprimorar o processo de gestão dos times pelos Squad Leaders, que atuam com os grupos de colaboradores dentro da empresa.
 
 
 ## 📁 Estrutura de pastas
-
-|--> documentos<br>
-  &emsp;| --> Outros documentos <br>
-  &emsp;| T2_G2_V10_documentacao.pdf<br>
-  &emsp;| T2_G2_V10_documentacao.docx<br>
-|--> imagens<br>
-|--> Notebook<br>
-| readme.md<br>
+|--> README.mb<br>
+|--> documentação<br>
+&emsp;| --> Sprint 2 <br>
+&emsp;| --> Sprint 3 <br>
+&emsp;| --> Sprint 4 <br>
+&emsp;| --> Sprint 5 <br>
+|--> <br>
+|--> Notebooks<br>
 | license.txt
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
 
-- <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+- <b>readme.md</b>: Arquivo que serve como guia e explicação geral sobre o projeto. O arquivo que organiza esta pagina na qual você se encontra
 
-- <b>Notebook</b>: aqui estará armazenado o notebook com os códigos e comentários acerca do modelo preditivo criado</b>.
+- <b>documentação</b>: Aqui se encontra a documentação completa do projeto. Ela esta dividida por sprint em subpastas
 
-- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares ao <b>web application document</b>.
-
-- <b>imagens</b>: imagens relacionadas ao projeto como um todo (por exemplo imagens do sistema, do grupo, logotipos e afins).
-
+- <b>Notebooks</b>: Aqui estão armazenados os notebooks e suas versoões passadas com os códigos e comentários acerca do modelo preditivo criado</b>.
 
 ## 💻 Execução dos projetos
 
@@ -61,9 +59,9 @@ Para replicação (reexecução dos códigos):
     * Quinta entrega - Modelo Final
 * 0.2.0 - 23/09/2022
     * Quarta entrega - Aprimoramento do modelo
-* 0.1.1 - 08/09/2022
+* 0.1.1 - 09/09/2022
     * Terceira entrega - Treinamento do modelo
-* 0.1.0 - 26/08/2022
+* 0.1.0 - 29/08/2022
     * Segunda entrega - Processamento de dados
 * 0.0.1 - 12/08/2022
     * Primeira entrega - Análise dos dados
