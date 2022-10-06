@@ -33,6 +33,17 @@ O intuito deste projeto é verificar se a modelagem preditiva, utilizando aprend
 &emsp;| --> Sprint 5 <br>
 |--> <br>
 |--> Notebooks<br>
+&emsp;| --> Sprint 1 <br>
+&emsp;| --> Sprint 2 <br>
+&emsp;| --> Sprint 3 <br>
+&emsp;| --> Sprint 4 <br>
+&emsp;| --> Sprint 5 <br>
+|--> <br>
+|--> Apresentaçãoes<br>
+&emsp;| --> Sprint 1 <br>
+&emsp;| --> Sprint 3 <br>
+&emsp;| --> Sprint 4 <br>
+&emsp;| --> Sprint 5 <br>
 | license.txt
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
@@ -42,6 +53,8 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 - <b>documentação</b>: Aqui se encontra a documentação completa do projeto. Ela esta dividida por sprint em subpastas
 
 - <b>Notebooks</b>: Aqui estão armazenados os notebooks e suas versoões passadas com os códigos e comentários acerca do modelo preditivo criado</b>.
+
+- <b>Apresentações</b>: Aqui estão armazenados as apresentações em slides em cada uma das sprints</b>.
 
 ## 💻 Execução dos projetos
 
