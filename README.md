@@ -25,25 +25,16 @@ O intuito deste projeto é verificar se a modelagem preditiva, utilizando aprend
 
 
 ## 📁 Estrutura de pastas
-|--> README.mb<br>
-|--> documentação<br>
-&emsp;| --> Sprint 2 <br>
-&emsp;| --> Sprint 3 <br>
-&emsp;| --> Sprint 4 <br>
-&emsp;| --> Sprint 5 <br>
-|--> <br>
-|--> Notebooks<br>
-&emsp;| --> Sprint 1 <br>
-&emsp;| --> Sprint 2 <br>
-&emsp;| --> Sprint 3 <br>
-&emsp;| --> Sprint 4 <br>
-&emsp;| --> Sprint 5 <br>
-|--> <br>
-|--> Apresentaçãoes<br>
-&emsp;| --> Sprint 1 <br>
-&emsp;| --> Sprint 3 <br>
-&emsp;| --> Sprint 4 <br>
-&emsp;| --> Sprint 5 <br>
+|--> documentos
+ | --> antigos
+ | --> outros
+ | T2_G3_V(VERSÃO)_Predictive_Model_Document.pdf
+ | T2_G3_V(VERSÃO)_Predictive_Model_Document.docx
+|--> notebooks
+ | --> outros
+ |--> T2_G3_V(VERSÃO)_Predictive_Model_Development.ipynb
+ |--> T2_G3_V(VERSÃO)_Predictive_Model_Development.ipynb
+| readme.md
 | license.txt
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
