@@ -25,20 +25,18 @@ O intuito deste projeto é verificar se a modelagem preditiva, utilizando aprend
 
 
 ## 📁 Estrutura de pastas
-|--> documentos
- | --> antigos
- | --> outros
- | T2_G3_V(VERSÃO)_Predictive_Model_Document.pdf
- | T2_G3_V(VERSÃO)_Predictive_Model_Document.docx
-
-|--> notebooks
- | --> outros
- |--> T2_G3_V(VERSÃO)_Predictive_Model_Development.ipynb
- |--> T2_G3_V(VERSÃO)_Predictive_Model_Development.ipynb
-
-| readme.md
-
-| license.txt
+|--> documentos<br>
+ | --> antigos<br>
+ | --> outros<br>
+ | T2_G3_V5_Predictive_Model_Document.pdf<br>
+ | T2_G3_V5_Predictive_Model_Document.docx<br>
+<br>
+|--> notebooks<br>
+ | --> outros<br>
+ |--> T2_G3_V(5)_Predictive_Model_Development.ipynb<br>
+| readme.md<br>
+<br>
+| license.txt<br>
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
 
