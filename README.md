@@ -75,13 +75,11 @@ Para replicação (reexecução dos códigos):
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">Turnover de funcionários</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Gustavo Monteiro,Felipe Gomes Rodrigues dos Santos, Stefano Matiotta Tinelli, Alan Schiper, Beny Frid, Mateus Neves </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL"  href="https://github.com/2022M3T2-Inteli/G3-Devs">Inteli,G3-Devs</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/InteliProjects/.github/blob/main/profile/README.md">Inteli, <a>Gustavo Monteiro</a>, <a>Felipe Gomes Rodrigues dos Santos</a>, <a>Stefano Matiotta Tinelli</a>, <a>Alan Schiper</a>, <a>Beny Frid</a>, <a>Mateus Neves</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto:
-
-
 
 FERN FORT UNIVERSITY. Salesforce.com, inc. Porter Five Forces Analysis. Disponível em: <Salesforce.com, inc. Porter Five (5) Forces & Industry Analysis [Strategy] (fernfortuniversity.com)>. Acesso em: 08 de agosto de 2022.
 
@@ -96,7 +94,6 @@ TCHILIAN, F.: Modelo Preditivo: o que é, para que serve e como aplicá-lo? - Cl
 CHEN, D., NIGRI, E., OLIVEIRA, G.,SEPULVENE, L., ALVES, T.: Métricas de Avaliação em Machine Learning: Classificação - Kunumi Blog, medium, 2020. Disponível em: <https://medium.com/kunumi/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-em-machine-learning-classifica%C3%A7%C3%A3o-49340dcdb198>. Acesso em: 09 de setembro de 2022.
 
 DIAS, M.: People Analytics: o que é, benefícios e como aplicar no RH - Gupy Blog, 2022, Disponível em: <https://www.gupy.io/blog/people-analytics>. Acesso em: 12 de setembro de 2022.
-
 
 Phase 1 of the CRISP-DM Process Model: Business Understanding. Disponível em:
 <https://www.dummies.com/article/technology/information-technology/data-science/
